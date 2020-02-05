@@ -1,2 +1,2 @@
 # BinaryTree
-BinaryTree app creates a binary tree with a given number of nodes. The project contains several methods that work on the created BinaryTree object.
+BinaryTree app creates a binary tree with a given number of nodes. Class BinaryTree contains several methods that work with a Binary Tree object. Comments just next to each method describe what given method does. In class main I implemented scanner class so after running the programm each method is being presented. Not all the code is mine, however I've put proper disclaimers about where did I get the code from.
